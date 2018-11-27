@@ -2,7 +2,6 @@
 #include <string>
 #include <chrono>
 
-
 void producer(stack<int> &Stack)
 {
 	for (;;)
